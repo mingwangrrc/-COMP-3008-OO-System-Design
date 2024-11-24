@@ -1,39 +1,40 @@
-
-# COMP-3008 OO System Design Repository
+# COMP-3008 Object-Oriented System Design - Course Repository
 
 ## Course Description
+This course is a continuation of Object-Oriented Systems Analysis, focusing on design-level UML modeling, computer-aided software engineering (CASE) tools, and project management of design alternatives. The course emphasizes iterative and incremental development methodologies, with a special focus on the Unified Process (UP). By combining the knowledge from OO Systems Analysis and this course, students will gain proficiency in:
 
-This course is a continuation of Object-Oriented Systems Analysis with an emphasis on design-level UML modelling, computer-aided software engineering (CASE) tool instruction, and project management of design alternatives. Iterative and incremental development methodologies are a focus, with particular emphasis on the Unified Process (UP). The combination of OO Systems Analysis and this course will equip you with a good working knowledge of: (i) object-oriented modelling from analysis to design, including user experience, database persistence, code implementation, and software deployment; (ii) visual modelling with UML; (iii) commercial-grade CASE tools; (iv) industry standard software development processes; and (v) practical techniques for managing a project through multiple iterations.
+- **Object-Oriented Modeling**: From analysis to design, including user experience, database persistence, code implementation, and software deployment.
+- **UML (Unified Modeling Language)**: Visual modeling to capture software structure and behavior.
+- **CASE Tools**: Commercial-grade tools for modeling and design.
+- **Industry-Standard Software Development Processes**: Emphasizing best practices and modern techniques.
+- **Project Management Techniques**: Practical methods for managing a project through multiple iterations.
 
-- **Course format**
-
-This course consists of learning modules comprised of module content, additional resources, and assessments. You must complete the module content and assessments within each module. It is highly recommended to study the additional resources since they are included to enhance understanding and provide assistance with the assessments.
-
-- **Module Content**
-
-Each module contains reading assignments that include lesson notes related to chapters in the course textbook. Read and study this material in addition to attending classes.
+The course consists of learning modules containing content, additional resources, and assessments. Students are encouraged to complete the module content and assessments and review supplementary resources to enhance their understanding and success in the assessments.
 
 ## Important Notes
-- **Educational Purpose Only**: The materials and code snippets provided here are solely for educational purposes. They are meant to supplement your learning and understanding of database management concepts.
-- **Academic Integrity**: It is crucial to adhere to your institution's academic integrity guidelines. This repository should be used as a reference and learning aid, not a source for copying work. Misuse may lead to serious academic repercussions.
+- **For Review and Understanding Only**: The materials in this repository are intended to help students understand key aspects of the course, including assignments and projects. These resources should not be used for direct submission.
+- **Academic Integrity**: Adhering to your institution's academic integrity policy is essential when utilizing this repository. Misuse of the provided materials could lead to serious academic repercussions.
 
 ## Disclaimer
-The owner of this repository bears no responsibility for any academic misconduct arising from improper use of the materials provided. Users are responsible for ensuring that their use of the repository's content adheres to their academic institution's policies and ethical standards.
+- The information in this repository is provided for educational purposes only. The owner does not condone plagiarism or academic dishonesty.
+- **Responsibility Disclaimer**: I do not take responsibility if copying materials from this repository results in academic issues, including receiving a grade of 0 or other sanctions. Use these resources ethically and in compliance with your academic institution's guidelines.
+- Efforts are made to keep this repository current, but the owner does not guarantee the accuracy or completeness of the materials.
 
 ## Repository Structure
-- **Assignments**: Descriptions and resources for course assignments. Note: Direct solutions are not provided to maintain academic integrity.
-- **Resource List**: Additional resources such as reading materials, tutorials, and tools to further understand database management.
-- **Sample Queries**: Example SQL queries and database operations for practice and reference.
+This repository includes various assignments, additional resources, and project examples for the COMP-3008 course. Each directory is organized by course modules and provides insights, overviews, and discussions on how to tackle design and modeling challenges.
 
 ## Usage
-- **Explore**: Review the lecture notes and resources to reinforce your understanding of database concepts.
-- **Practice**: Utilize the sample queries and assignments as a guide for hands-on practice with real database systems.
-- **Contribute**: Contributions to improve or expand the repository's content are welcome, following the guidelines below.
+1. **Explore**: Browse the directories to understand the scope and requirements of assignments, projects, and additional resources.
+2. **Learn**: Use the provided materials as references to help you gain insights and develop a strong approach to tackling the course tasks.
+3. **Do Not Copy**: These resources are meant to foster learning and problem-solving, not for direct submission.
 
-## Contribution Guidelines
-Contributions should be educational, relevant, and adhere to best practices in database management. Direct solutions to assignment questions are not allowed. Instead, consider contributing tips, best practices, or additional sample queries that could help fellow students.
+## Contributions
+Contributions from students who have previously taken the COMP-3008 course are welcome, but must follow the guidelines below:
+- **No Direct Solutions**: Direct answers to assignments or projects are not allowed.
+- **Guidance Only**: Contribute tips, best practices, learning resources, or provide examples without directly solving course tasks.
+- **Quality**: Ensure all contributions are clear, well-documented, and uphold good software development practices.
 
 ## Contact
-For any queries, suggestions, or concerns about this repository, please [open an issue](link-to-your-repository-issues-section).
+For questions, suggestions, or discussions about this repository, please [open an issue](link-to-your-repository-issues-section).
 
-Thank you for accessing this repository, and we wish you the best in your journey to mastering database management!
+Thank you for visiting this repository, and best of luck with your journey in Object-Oriented System Design!
